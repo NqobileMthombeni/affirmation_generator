@@ -30,6 +30,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_svg: ^1.0.0  # For SVG animations
+  # flutter_gifimage: ^3.0.0  # For GIF animations  
+  # flutter_animated_splash_screen: ^2.0.0 
+    
 
   provider: ^6.0.3  # State management
   http: ^1.2.2  # HTTP requests
