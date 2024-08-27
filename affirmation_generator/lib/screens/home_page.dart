@@ -23,7 +23,7 @@ class _MyHomePageState extends State<MyHomePage> {
     "I am capable of persevering through any adversity that comes my way.",
     "I embrace obstacles as opportunities to prove my perseverance.",
     "With each challenge I face, my determination grows stronger.",
-    "I am a resilient soul, and perseverance is my guiding force."
+    "I am a resilient soul, and perseverance is my guiding force. "
   ];
 
   String _currentAffirmation = "Click the button to get an affirmation!";
