@@ -30,7 +30,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_svg: ^1.0.0  # For SVG animations
+  shared_preferences: ^2.2.2  # Latest stable version  # For SVG animations
   # flutter_gifimage: ^3.0.0  # For GIF animations  
   # flutter_animated_splash_screen: ^2.0.0 
     
